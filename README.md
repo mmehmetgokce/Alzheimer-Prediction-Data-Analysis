@@ -1,4 +1,4 @@
-# Alzheimer-Prediction-Data-Analysis
+# Alzheimer Prediction And Data Analysis
 
 This project was developed to predict Alzheimer's disease probabilistically using clinical and demographic data. Correlations in the dataset were examined and various machine learning models were tested.
 
